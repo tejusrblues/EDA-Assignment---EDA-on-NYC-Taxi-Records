@@ -1,8 +1,8 @@
 # EDA-Assignment---EDA-on-NYC-Taxi-Records
 
 It contains EDA_Optimising_NYC_Taxis_TejusRaju.zip file. Extracting this, gives :
-EDA_Optimizing_NYC_Taxis_TejusRaju.ipynb
-Report_NYC_Taxi_Operations_TejusRaju.pdf
+1. EDA_Optimizing_NYC_Taxis_TejusRaju.ipynb
+2. Report_NYC_Taxi_Operations_TejusRaju.pdf
 
 EDA_Optimizing_NYC_Taxis_TejusRaju.ipynb -> This contains the code for:
 1. Analysis
